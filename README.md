@@ -25,8 +25,7 @@
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v3)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/=https://github.com/ssmarw/zimbot-v3)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/qa_ia0?referralCode=_Hy7Gv)
 ## BUILD PACKS
 
 ```
